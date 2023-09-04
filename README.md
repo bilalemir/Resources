@@ -1,4 +1,4 @@
-# Resources
+# Resources for data scientist
 
 ## Machine learning & Deep Learning Courses 
 [Roadmap](https://i.am.ai/roadmap/#fundamentals)
